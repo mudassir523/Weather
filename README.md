@@ -13,7 +13,7 @@ A responsive weather forecast application built with *HTML, **CSS, and **JavaScr
 
 ## 🛠️ Tech Stack
 - **HTML5** – Structure  .
-- **CSS3** – Styling & responsiveness  
+- **CSS3** – Styling & responsiveness  .
 - **JavaScript (ES6)** – Logic & API integration  
 - **OpenWeatherMap API** – Weather data source . 
 
