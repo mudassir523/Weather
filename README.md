@@ -5,7 +5,7 @@ A responsive weather forecast application built with *HTML, **CSS, and **JavaScr
 ## ✨ Features
 - 🌎 **Search Weather by City** – Get instant details for any location.
 - 📊 **Real-Time Data** – Temperature, humidity, wind speed & weather condition.
-- 📱 **Responsive Design** – Works on mobile, tablet, and desktop..
+- 📱 **Responsive Design** – Works on mobile, tablet, and desktop.
 - 🎨 **Modern UI** – Minimal, user-friendly interface.
 - ⚡ **Fast & Lightweight** – Runs smoothly without page reloads..
 
