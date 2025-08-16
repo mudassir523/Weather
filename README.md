@@ -15,8 +15,11 @@ A responsive weather forecast application built with *HTML, **CSS, and **JavaScr
 - **HTML5** – Structure  .
 - **CSS3** – Styling & responsiveness  .
 - **JavaScript (ES6)** – Logic & API integration  .
-- **OpenWeatherMap API** – Weather data source . 
+- **OpenWeatherMap API** – Weather data source .
+---
 
+##  Live Demo
+Check it out here: [Weather App Live Demo](https://mudassir523.github.io/Weather/)
 ---
 
 ## 🚀 Getting Started
