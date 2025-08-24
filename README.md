@@ -29,5 +29,5 @@ Check it out here: [Weather App Live Demo](https://mudassir523.github.io/Weather
 git clone https://github.com/mudassir523/Weather.git
 cd Weather
 
-.
+., 
 
